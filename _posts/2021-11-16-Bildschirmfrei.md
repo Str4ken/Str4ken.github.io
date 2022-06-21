@@ -90,7 +90,7 @@ Doch mein Rücken, meine Organe, mein Gemüt und mein Geist danken es mir.
 Gute Nacht Deutschland.
 
 
-```
+<!-- ```
                                   ___
                      ___      ,-''   ``-.
                    _( , '--.,'__         `.       _____ ___
@@ -111,4 +111,4 @@ Gute Nacht Deutschland.
                                  `--.
                                      \__
                                         `-.
-```
+``` -->

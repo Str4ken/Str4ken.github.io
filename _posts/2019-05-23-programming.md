@@ -15,7 +15,7 @@ title: monkey programming
 
 `root@brain:~$>syncing...`
 
-`root@brain:~$>online!`
+`root@brain:~$>online`
 
 `root@brain:~$>opening editor:`
 

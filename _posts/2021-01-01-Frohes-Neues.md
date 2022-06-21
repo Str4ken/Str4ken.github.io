@@ -240,7 +240,7 @@ Lieber Liebe.
 
 Frohes Neues twenty-twenty-won!
 
-```
+<!-- ```
                *    *
    *         '       *       .  *   '     .           * *
                                                                '
@@ -269,4 +269,4 @@ Frohes Neues twenty-twenty-won!
                *        '             '                          .
      .                          *        .           *  *
              *        .                                    '
-```
+``` -->
