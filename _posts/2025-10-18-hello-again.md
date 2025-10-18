@@ -159,13 +159,13 @@ Was passiert wenn ich mich nicht ummelde?
 
 Wie viele Einwohner hat Beispieldorf?
 
-Wie Menschen wohnen umgemeldet in Beispieldorf?
+Wie viele Menschen wohnen umgemeldet in Beispieldorf?
 
 Welche Bar hat jetzt noch in Beispieldorf auf?
 
-Was passiert wenn ich mein Handy in Beispieldorf verliere?
+Moin, ich hab mein Handy in Beispieldorf verloren?
 
-Was passiert wenn ich ohne Handy in Beispieldorf am Marktplatz verloren gehe?
+Was passiert wenn ich ohne Handy in Beispieldorf am Marktplatz verloren gehe und nie wieder auftauche?
 
 Wo kann man gut und günstig, aber vor allem günstig in Beispieldorf übernachten?
 
@@ -179,12 +179,18 @@ Warum werde ich nicht geliebt?
 
 Wieso kommt der Bus nicht?
 
-Wann kommt der nächste Bus?
+Wann kommt der nächste Bus nach Hause?
+
+Warum weißt du nicht wo ich wohne?
 
 Warum kann meine Location nicht mit Beispieldorf KI sharen?
 
-Warum frage ich dich überhaupt irgendwas du dummes Stück Scheiße?
+Warum frage ich dich überhaupt irgendwas, du dummes Stück Scheiße?
 
-Über die Monate sammelten sich die Fragen. Die KI hatte auf jede Frage eine Antwort. Oft korrekt, aber auch oft genug falsch, unzureichend, unpassend und vor allem unmenschlich. Die Aufgabe der Stadtdiener von Beispieldorf war Anfangs anstrengend, manchmal überwältigend und oft repetitiv. Nach mehreren Monaten war zu merken das das Korrigieren und Annotieren der KI zu besseren Antworten führte. Schlussendlich der Aufwand der Beamten und Antwortet abnahm.
+Über die Monate sammelten sich die Fragen. Die KI hatte auf jede Frage eine Antwort. Oft korrekt, aber auch oft genug falsch, unzureichend, unpassend und vor allem unmenschlich. Die Aufgabe der Stadtdiener von Beispieldorf war Anfangs anstrengend, manchmal überwältigend und meist repetitiv. Doch nach mehreren Monaten war zu merken das das Korrigieren und Annotieren der KI zu besseren Antworten führte. Schlussendlich der Aufwand der Beamten abnahm. Und die Antworten schlicht besser wurden.
 
-## Ja Ja usw.
+Vorübergehend...
+
+## Ja Ja usw. 
+
+## Das wird ein dicker Roman
