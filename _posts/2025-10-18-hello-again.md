@@ -129,34 +129,62 @@ Der Server war nicht von außerhalb des WLANs erreichbar und hatte keine Verbind
 
 So begann das dezentralisierte Wachstum von ländlichen überschaubaren Informations- und Entscheidungsnetzwerken.
 
-Die Idee war so simpel. Ein Sprachmodell das alltägliche Fragen beantwortet. Wann ist das U10 Handballtraining?
+Die Idee war so simpel. Ein Sprachmodell das alltägliche Fragen beantwortet. 
+
+Wann ist das U10 Handballtraining?
+
 Wer ist der U10 Handballtrainer?
+
 Wie lange hat der Bäcker Bock am Marktplatz heute auf?
+
 Wann kann ich bei Pfarrer Horst beichten gehen?
+
 Wo finde ich jetzt noch Kondome?
+
 Gibt es eine Thaimassage in Beispieldorf?
+
 Welcher Friseur empfängt um 14 Uhr am Samstag Kunden ohne Reservierung?
+
 Wer ist hier Bürgermeister?
+
 Warum ist Kevin Müller Bürgermeister?
+
 Wie viele Stadträte gibt es in Beispieldorf?
+
 Was verdient ein Stadtrat?
+
 Wo kann ich mich ummelden?
+
 Was passiert wenn ich mich nicht ummelde?
+
 Wie viele Einwohner hat Beispieldorf?
+
 Wie Menschen wohnen umgemeldet in Beispieldorf?
+
 Welche Bar hat jetzt noch in Beispieldorf auf?
+
 Was passiert wenn ich mein Handy in Beispieldorf verliere?
+
 Was passiert wenn ich ohne Handy in Beispieldorf am Marktplatz verloren gehe?
+
 Wo kann man gut und günstig, aber vor allem günstig in Beispieldorf übernachten?
+
 Wo ist der 24/7 Laden?
+
 Wie kann ich einen Termin beim Standesamt buchen?
+
 Warum liebe ich?
+
 Warum werde ich nicht geliebt?
+
 Wieso kommt der Bus nicht?
+
 Wann kommt der nächste Bus?
+
 Warum kann meine Location nicht mit Beispieldorf KI sharen?
+
 Warum frage ich dich überhaupt irgendwas du dummes Stück Scheiße?
 
-Über die Monate sammelten sich die Fragen. Die KI hatte auf jede Frage eine Antwort. Oft korrekt, aber auch oft genug falsch, unzureichend, unpassend und vor allem unmenschlich. Die Aufgabe der Stadtdiener von Beispieldorf war Anfangs anstrengend, manchmal überwältigend und oft repetitiv. Nach mehreren Monaten war zu merken das das korrigieren und annotiren der KI zu besseren Antworten führte. Schlussendlich der Aufwand der Beamten und Antwortet abnahm.
+Über die Monate sammelten sich die Fragen. Die KI hatte auf jede Frage eine Antwort. Oft korrekt, aber auch oft genug falsch, unzureichend, unpassend und vor allem unmenschlich. Die Aufgabe der Stadtdiener von Beispieldorf war Anfangs anstrengend, manchmal überwältigend und oft repetitiv. Nach mehreren Monaten war zu merken das das Korrigieren und Annotieren der KI zu besseren Antworten führte. Schlussendlich der Aufwand der Beamten und Antwortet abnahm.
 
 ## Ja Ja usw.
