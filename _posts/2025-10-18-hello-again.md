@@ -105,7 +105,7 @@ Wir sind angekommen in der schönsten und tollsten Zeit der Erschaffung. Wir ers
 
 Wovon kann die KI noch lernen, wenn der neue Kontent von ihr selbst stammt?
 
-Von ihr selbst. Das is (g/l)eiler immmer noch Evolution. Wir sind nur noch Konsumenten, im Optimalfall Annotierer. Die Frage ob wie systemisch intelligenter werden kann schon länger kkeiner mit Sicherheit beantworten, aber ob wir dümmer werden kann jeder für sich selbst beantworten.
+Von ihr selbst. Das is (g/l)eider immmer noch Evolution. Wir sind nur noch Konsumenten, im Optimalfall Annotierer. Die Frage ob wie systemisch intelligenter werden kann schon länger kkeiner mit Sicherheit beantworten, aber ob wir dümmer werden kann jeder für sich selbst beantworten.
 
 ::Exkurs Ende
 
