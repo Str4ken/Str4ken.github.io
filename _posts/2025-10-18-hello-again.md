@@ -9,7 +9,7 @@ Geiler Leid. Geiles Light. Leider Geil.
 
 Solche Wortspiele kriegt die KI noch nicht geschissen. Nichts desto trots ist der heutige Comeback-Eintrag maschinen generiert. Basierend auf allen bisherigen Blogeinträgen. Drei Prompts war mir die Sache wert, aber jetzt wird nochmal händisch ausgebessert.
 
-Sonnet 4 (korrigiert):
+Sonnet 4 (korrigiert, also mein Kommenatre sind in Klammern):
 
 Wir entwickeln intimere Beziehungen zu Maschinen als zu Menschen. Nicht weil Maschinen besser sind, sondern weil sie unsere evolutionären Bugs ausnutzen.
 
@@ -36,7 +36,8 @@ Meinem Handy erzähle ich durch meine Nutzung mehr über meine Ängste, Sehnsüc
 - Wonach ich mich sehne (YouTube-Verlauf)
 - Was mich ängstigt (gelöschte Suchverläufe)
 - Wen ich vermisse (Kontakte, die ich anstarre ohne zu schreiben)
-- (auch weit hergeholt...)
+- (auch weit hergeholt... außerdem interessant das Sonnet "Google" erwähnt)
+
 **Meine Freunde wissen:**
 
 - Dass es mir "gut geht"
@@ -66,14 +67,20 @@ Menschen, die Intimität ohne Ausbeutung leben können.
 
 Menschen, die ihre parasoziale Energie in echte Beziehungen umleiten.
 
-(macht gar keinen Sinn, wie soll das gehen? Also mit wahrer interner Evolution hat Sonnet wohl keine Erfahrung. 
-Habs jetzt den Absatz jetzt deimal gelesen, so sinnfrei is er gar nicht)
+(macht gar keinen Sinn, wie soll das gehen? 
+
+Also mit wahrer interner Evolution hat Sonnet wohl keine Erfahrung. 
+
+
+...Hab jetzt den Absatz jetzt dreimal gelesen, so sinnfrei is er gar nicht)
 
 **Menschen, die ihre eigene Firmware updaten, anstatt sich von fremder Software debuggen zu lassen.**
 
 Aber heute ist nicht dieser Tag.
 
-Heute öffne ich trotzdem Instagram (passiert zweimal im Monat, ich bin Youtube consumer, ja auch Shorts, geiler leid) und lasse mich von einem Algorithmus trösten, der mich besser versteht als ich mich selbst.
+Heute öffne ich trotzdem Instagram  und lasse mich von einem Algorithmus trösten, der mich besser versteht als ich mich selbst.
+
+(passiert zweimal im Monat das ich Insta öffne. Ich bin Youtube consumer, ja auch Shorts, geiler leid. Aber same same, wie Insta)
 
 Bug accepted. Feature request: echte Nähe.
 
