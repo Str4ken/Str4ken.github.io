@@ -97,9 +97,7 @@ Na dann <3>
 
 Spaß/KI beiseite. Der Sinn diesen Pensieve ist und wird es bleiben meine Gedanken zu speichern mit der Intention meiner Nachwelt Kopfverzerrungen und Hirnverwirrrungen zu kredenzen.
 
-Ich überlege ob ich "wir" oder "ich" schreibe und es ist egal, weil vielleicht bald alles egal ist:
-
-https://www.golem.de/news/ai-2027-in-ein-paar-jahren-koennte-es-vorbei-sein-2509-199140.html
+Ich überlege ob ich "wir" oder "ich" schreibe und es ist egal, weil vielleicht [bald alles egal](https://www.golem.de/news/ai-2027-in-ein-paar-jahren-koennte-es-vorbei-sein-2509-199140.html) ist.
 
 Wir sind angekommen in der schönsten und tollsten Zeit der Erschaffung. Wir erschaffen Songs, Bilder, Texte, 'Anal'ysen, Prozesse und Gedankenkonstrukte mit einer noch nie zuvor existierenden Leichtigkeit. Nur im Kern. Nur generisch. Nur künstlich. Aber wir erschaffen. 
 
@@ -107,7 +105,7 @@ Wir sind angekommen in der schönsten und tollsten Zeit der Erschaffung. Wir ers
 
 Wovon kann die KI noch lernen, wenn der neuen Kontent von ihr selbst stammt?
 
-Von ihr selbst. Das is geiler immmer noch Evolution, aber wir sind nur noch Labeler
+Von ihr selbst. Das is geiler immmer noch Evolution, aber wir sind nur noch Konsumenten, im Optimalfall Annotierer.
 
 <Ekurs Ende>
 
