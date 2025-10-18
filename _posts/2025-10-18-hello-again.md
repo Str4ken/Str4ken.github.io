@@ -191,6 +191,10 @@ Warum frage ich dich überhaupt irgendwas, du dummes Stück Scheiße?
 
 Vorübergehend...
 
-## Ja Ja usw. 
+## Ja Ja usw.
 
 ## Das wird ein dicker Roman
+
+Claud Opus hat schon den ersten Band geschrieben, aber ich glaub die harte iterative Korrektur kann nur Deepseek schaffen, weil die westlichen Modelle schlicht und einfach zu faul sind. Finde es ja außerordentlich amüsant, wie die Arbeitsmoral der KI Modelle die Gesellschaft ihrer Erschaffer wiederspiegelt.
+
+<3 good nigth
