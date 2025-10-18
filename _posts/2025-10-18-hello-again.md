@@ -11,11 +11,15 @@ Geiler Leid. Geiles Light. Leider Geil.
 
 Solche Wortspiele kriegt die KI noch nicht geschissen. Nichts desto trotz ist der heutige Comeback-Eintrag von der Maschinen generiert. Basierend auf allen bisherigen Blogeinträgen. 
 
-Drei Prompts war mir die Sache wert.
+Drei Prompts war mir die Sache wert:
 
 <div style="text-align: center;">
   <img src="images/blog/2025-10-18.png" alt="Beschreibung" style="width: 400px;">
 </div>
+
+
+
+![Alt-Text](images/blog/2025-10-18.png)
 
 Aber jetzt wird nochmal händisch ausgebessert.
 
