@@ -9,7 +9,7 @@ Nachdem ich meine Regeln vom letzten Eintrag mehr oder minder befolgt habe sind 
 
 Geiler Leid. Geiles Light. Leider Geil.
 
-Solche Wortspiele kriegt die KI noch nicht geschissen. Nichts desto trots ist der heutige Comeback-Eintrag maschinen generiert. Basierend auf allen bisherigen Blogeinträgen. Drei Prompts war mir die Sache wert, aber jetzt wird nochmal händisch ausgebessert.
+Solche Wortspiele kriegt die KI noch nicht geschissen. Nichts desto trotz ist der heutige Comeback-Eintrag von der Maschinen generiert. Basierend auf allen bisherigen Blogeinträgen. Drei Prompts war mir die Sache wert, aber jetzt wird nochmal händisch ausgebessert.q
 
 Sonnet 4 (korrigiert, also mein Kommenatre sind in Klammern):
 
