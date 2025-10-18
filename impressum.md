@@ -6,12 +6,12 @@ permalink: /impressum/
 
 Verantwortlich den Quatsch hier:
 
-Robin Schnider
+Bin Schnidelbacher
 
 Master of Science TU München (und versteht die Welt trotzdem nicht)
 
-Kretzerstr. 4
+Melhholtzstr. 16
 
-50733 Köln
+90581 Neudorf
 
 E-Mail: blog@robinschnider.com
