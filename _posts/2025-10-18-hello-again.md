@@ -14,12 +14,8 @@ Solche Wortspiele kriegt die KI noch nicht geschissen. Nichts desto trotz ist de
 Drei Prompts war mir die Sache wert:
 
 <div style="text-align: center;">
-  <img src="images/blog/2025-10-18.png" alt="Beschreibung" style="width: 400px;">
+  <img src="/images/blog/2025-10-18.png" alt="KI-generierter Blog-Eintrag Screenshot" style="width: 400px;">
 </div>
-
-
-
-![Alt-Text](images/blog/2025-10-18.png)
 
 Aber jetzt wird nochmal händisch ausgebessert.
 
