@@ -131,6 +131,4 @@ Die Idee war so simpel. Ein Sprachmodell das alltägliche Fragen beantwortet. Wa
 
 Über die Monate sammelten sich die Fragen. Die KI hatte auf jede Frage eine Antwort. Oft korrekt, aber auch oft genug falsch, unzureichend, unpassend und vor allem unmenschlich. Die Aufgabe der Stadtdiener von Beispieldorf war Anfangs anstrengend, manchmal überwältigend und oft repetitiv. Nach mehreren Monaten war zu merken das das korrigieren und annotiren der KI zu besseren Antworten führte. Schlussendlich der Aufwand der Beamten und Antwortet abnahm.
 
-##
-
-Ja Ja usw.
+## Ja Ja usw.
