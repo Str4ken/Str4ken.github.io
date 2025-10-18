@@ -3,6 +3,8 @@ layout: post
 title: Pausen sind Teil des Prozesses
 ---
 
+Drei dicke Jahre sind verstrichen, ins Land gezogen, haben sich verfestigt und verflüchtigt. Doch das Pensieve lebt noch.
+
 Nachdem ich meine Regeln vom letzten Eintrag mehr oder minder befolgt habe sind Dinge passiert. Dinge die wir so nicht kommen haben sehen. Eine Beziehung neuen Ausmaßes. Und aber auch eine neue Art Informationen zu verarbeiten. Die elektronische Datenverarbeitung hat ein neues Level erreicht. 
 
 Geiler Leid. Geiles Light. Leider Geil.
